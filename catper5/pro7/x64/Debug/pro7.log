@@ -1,0 +1,4 @@
+﻿  pro7.cpp
+E:\Coding\C++\C++_Primer_Plus\chatper5\pro7\pro7.cpp(20,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\Coding\C++\C++_Primer_Plus\chatper5\pro7\pro7.cpp(30,23): warning C4018: “<”: 有符号/无符号不匹配
+  pro7.vcxproj -> E:\Coding\C++\C++_Primer_Plus\chatper5\x64\Debug\pro7.exe

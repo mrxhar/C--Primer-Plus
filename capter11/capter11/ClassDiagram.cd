@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Time">
+    <Position X="0.75" Y="1.75" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAABAhAAAAAAAAAAAAAAEAAAAAAAgAAAAAQA=</HashCode>
+      <FileName>mytime1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

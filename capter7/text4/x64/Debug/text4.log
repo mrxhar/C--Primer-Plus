@@ -1,0 +1,4 @@
+﻿  text4.cpp
+E:\Coding\C++\C++_Primer_Plus\chapter7\text4\text4.cpp(11,9): warning C4101: “total”: 未引用的局部变量
+E:\Coding\C++\C++_Primer_Plus\chapter7\text4\text4.cpp(11,16): warning C4101: “choices”: 未引用的局部变量
+  text4.vcxproj -> E:\Coding\C++\C++_Primer_Plus\chapter7\x64\Debug\text4.exe

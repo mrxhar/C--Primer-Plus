@@ -1,0 +1,9 @@
+﻿  pro5.cpp
+E:\Coding\C++\C++_Primer_Plus\chatper5\pro5\pro5.cpp(9,59): warning C4838: 从“int”转换到“char”需要收缩转换
+E:\Coding\C++\C++_Primer_Plus\chatper5\pro5\pro5.cpp(9,76): warning C4305: “初始化”: 从“int”到“char”截断
+E:\Coding\C++\C++_Primer_Plus\chatper5\pro5\pro5.cpp(9,59): warning C4309: “初始化”: 截断常量值
+E:\Coding\C++\C++_Primer_Plus\chatper5\pro5\pro5.cpp(9,65): warning C4838: 从“int”转换到“char”需要收缩转换
+E:\Coding\C++\C++_Primer_Plus\chatper5\pro5\pro5.cpp(9,65): warning C4309: “初始化”: 截断常量值
+E:\Coding\C++\C++_Primer_Plus\chatper5\pro5\pro5.cpp(9,71): warning C4838: 从“int”转换到“char”需要收缩转换
+E:\Coding\C++\C++_Primer_Plus\chatper5\pro5\pro5.cpp(9,71): warning C4309: “初始化”: 截断常量值
+  pro5.vcxproj -> E:\Coding\C++\C++_Primer_Plus\chatper5\x64\Debug\pro5.exe

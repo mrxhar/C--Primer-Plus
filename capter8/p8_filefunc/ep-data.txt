@@ -1,0 +1,7 @@
+Focal length of objective; 31
+f.1. eyepieces magnification
+   0   -2147483648
+   -9.25596e+61   0
+   -9.25596e+61   0
+   -9.25596e+61   0
+   -9.25596e+61   0

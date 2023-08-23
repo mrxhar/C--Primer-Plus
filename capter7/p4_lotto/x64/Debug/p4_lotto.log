@@ -1,0 +1,4 @@
+﻿  p4_lotto.cpp
+E:\Coding\C++\C++_Primer_Plus\chapter7\p4_lotto\p4_lotto.cpp(16,59): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+E:\Coding\C++\C++_Primer_Plus\chapter7\p4_lotto\p4_lotto.cpp(16,52): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+  p4_lotto.vcxproj -> E:\Coding\C++\C++_Primer_Plus\chapter7\x64\Debug\p4_lotto.exe

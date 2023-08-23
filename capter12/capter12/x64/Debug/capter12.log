@@ -1,0 +1,3 @@
+﻿  queue_main2.cpp
+E:\Coding\C++\C++_Primer_Plus\capter12\capter12\queue_main2.cpp(17,22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  capter12.vcxproj -> E:\Coding\C++\C++_Primer_Plus\capter12\x64\Debug\capter12.exe

@@ -1,0 +1,3 @@
+﻿  p2_protos.cpp
+E:\Coding\C++\C++_Primer_Plus\chapter7\p2_protos\p2_protos.cpp(18,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  p2_protos.vcxproj -> E:\Coding\C++\C++_Primer_Plus\chapter7\x64\Debug\p2_protos.exe

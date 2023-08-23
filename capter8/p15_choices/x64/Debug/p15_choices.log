@@ -1,0 +1,12 @@
+﻿  p15_choices.cpp
+E:\Coding\C++\C++_Primer_Plus\capter8\p15_choices\p15_choices.cpp(28,28): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+E:\Coding\C++\C++_Primer_Plus\capter8\p15_choices\p15_choices.cpp(28,25): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+  p15_choices.vcxproj -> E:\Coding\C++\C++_Primer_Plus\capter8\x64\Debug\p15_choices.exe

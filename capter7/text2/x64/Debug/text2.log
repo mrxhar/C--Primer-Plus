@@ -1,0 +1,3 @@
+﻿  text2.cpp
+E:\Coding\C++\C++_Primer_Plus\chapter7\text2\text2.cpp(68,9): warning C4101: “average”: 未引用的局部变量
+  text2.vcxproj -> E:\Coding\C++\C++_Primer_Plus\chapter7\x64\Debug\text2.exe
