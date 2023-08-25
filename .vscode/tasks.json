@@ -8,7 +8,7 @@
                 "-fdiagnostics-color=always",
                 "-g",
                 "${file}",
-                // "E:\\Coding\\C++\\C++_Primer_Plus\\chapter15\\p14\\sales.cpp",
+                "E:\\Coding\\C++\\C++_Primer_Plus\\chapter15\\t4\\sales.cpp",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
