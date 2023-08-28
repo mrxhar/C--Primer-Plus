@@ -8,9 +8,11 @@
                 "-fdiagnostics-color=always",
                 "-g",
                 "${file}",
-                "E:\\Coding\\C++\\C++_Primer_Plus\\chapter15\\t4\\sales.cpp",
+                "E:\\Coding\\C++\\C++_Primer_Plus\\chapter17\\t17-6_emp.cpp",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "-I",
+                "D:\\Program Files\\mingw64\\include\\boost_1_83_0"
             ],
             "options": {
                 "cwd": "${fileDirname}"
